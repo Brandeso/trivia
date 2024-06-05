@@ -1,0 +1,37 @@
+
+<div class="grid w-screen px-2 py-4 md:px-4 lg:px-6">
+  <p-button icon="pi pi-save" label="Download ({{ filteredQuestions.length }} items)"  class="w-full" styleClass="w-full" (onClick)="exportToJson()"/>
+  @for (item of filteredQuestions; track item; let i = $index) {
+    <div class="col-4 p-3 flex flex-col lg:col-3">
+      <p-card header="Q #{{ i+1 }}"
+        subheader="{{ item.pregunta }}"
+        styleClass="h-full flex flex-column justify-content-between"
+      >
+        <ng-template #header pTemplate="header">
+          <img alt="Card"
+            src="https://primefaces.org/cdn/primeng/images/card-ng.jpg"
+            style="border-radius: 10px 10px 0 0;"
+          />
+        </ng-template>
+        <div class="grid">
+          @for (option of item.opciones; track $index) {
+            <div class="col-6">
+              <span>{{ option }}</span>
+            </div>
+          }
+        </div>
+        <ng-template #footer pTemplate="footer">
+          <div class="flex gap-3 mt-1">
+            <p-button severity="secondary" label="{{ item.respuesta }}" class="w-full" styleClass="w-full"/>
+          </div>
+          <div class="flex gap-3 mt-1">
+            <p-button icon="pi pi-trash" severity="secondary" label="Delete" (onClick)="delete(item, i)" class="w-full" styleClass="w-full"/>
+            <p-button icon="pi pi-pencil" label="Edit" class="w-full" styleClass="w-full"/>
+          </div>
+        </ng-template>
+
+      </p-card>
+    </div>
+  }
+
+</div>
