@@ -1,0 +1,317 @@
+[
+  {
+    "pregunta": "¿Cuál es la civilización antigua conocida por la construcción de pirámides en Giza?",
+    "opciones": ["Mesopotamia", "China", "Egipto", "Grecia"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló la escritura cuneiforme?",
+    "opciones": ["Mesopotamia", "India", "Grecia", "Roma"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿Cuál es la civilización antigua conocida por la construcción de la Gran Muralla?",
+    "opciones": ["Egipto", "Roma", "India", "China"],
+    "respuesta": "China"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra el Partenón?",
+    "opciones": ["Roma", "Grecia", "Egipto", "Persia"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Machu Picchu?",
+    "opciones": ["Azteca", "Maya", "Inca", "Olmeca"],
+    "respuesta": "Inca"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la invención del alfabeto fonético?",
+    "opciones": ["Fenicia", "China", "Egipto", "Grecia"],
+    "respuesta": "Fenicia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se originaron los Juegos Olímpicos?",
+    "opciones": ["Roma", "Egipto", "Grecia", "Mesopotamia"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por su mitología que incluye dioses como Júpiter y Marte?",
+    "opciones": ["Egipto", "Grecia", "Roma", "India"],
+    "respuesta": "Roma"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Angkor Wat?",
+    "opciones": ["Mesopotamia", "China", "Egipto", "Imperio Jemer"],
+    "respuesta": "Imperio Jemer"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por el Código de Hammurabi?",
+    "opciones": ["Egipto", "Mesopotamia", "Grecia", "India"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua construyó el Coliseo?",
+    "opciones": ["Roma", "Grecia", "Egipto", "Persia"],
+    "respuesta": "Roma"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló la cultura olmeca?",
+    "opciones": ["Mesopotamia", "China", "Mesoamérica", "Grecia"],
+    "respuesta": "Mesoamérica"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por su sistema de castas?",
+    "opciones": ["Egipto", "Grecia", "India", "Roma"],
+    "respuesta": "India"
+  },
+  {
+    "pregunta": "¿Cuál es la civilización antigua conocida por la construcción de la Torre de Babel?",
+    "opciones": ["Egipto", "Grecia", "Mesopotamia", "Roma"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por el templo de Karnak?",
+    "opciones": ["Roma", "China", "Egipto", "India"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por sus figuras de guerreros de terracota?",
+    "opciones": ["Grecia", "Roma", "China", "Persia"],
+    "respuesta": "China"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra el Zigurat de Ur?",
+    "opciones": ["Grecia", "Mesopotamia", "Egipto", "Roma"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Tenochtitlán?",
+    "opciones": ["Inca", "Azteca", "Maya", "Olmeca"],
+    "respuesta": "Azteca"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló el papiro como material de escritura?",
+    "opciones": ["Grecia", "Roma", "Egipto", "China"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por su arquitectura con columnas dóricas, jónicas y corintias?",
+    "opciones": ["Egipto", "China", "Grecia", "Roma"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se construyó el Mausoleo de Halicarnaso?",
+    "opciones": ["Egipto", "Grecia", "Persia", "Roma"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por sus templos en Angkor?",
+    "opciones": ["Mesopotamia", "Imperio Jemer", "China", "Egipto"],
+    "respuesta": "Imperio Jemer"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por sus estatuas moai?",
+    "opciones": ["Azteca", "Inca", "Isla de Pascua", "Olmeca"],
+    "respuesta": "Isla de Pascua"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló el arte del origami?",
+    "opciones": ["China", "India", "Japón", "Corea"],
+    "respuesta": "Japón"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la ciudad de Petra?",
+    "opciones": ["Egipto", "Grecia", "Nabatea", "Roma"],
+    "respuesta": "Nabatea"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por sus geoglifos en las Líneas de Nazca?",
+    "opciones": ["Inca", "Nazca", "Maya", "Olmeca"],
+    "respuesta": "Nazca"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló el teatro como forma de entretenimiento?",
+    "opciones": ["Roma", "Grecia", "Egipto", "Mesopotamia"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por sus avances en astronomía y matemáticas en Chichen Itza?",
+    "opciones": ["Azteca", "Inca", "Maya", "Olmeca"],
+    "respuesta": "Maya"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la construcción de zigurats?",
+    "opciones": ["Egipto", "Mesopotamia", "China", "Grecia"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra el Templo de Bel en Palmira?",
+    "opciones": ["Egipto", "Roma", "Mesopotamia", "Siria"],
+    "respuesta": "Siria"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción del Palacio de Knossos?",
+    "opciones": ["Egipto", "Grecia", "Minoica", "Roma"],
+    "respuesta": "Minoica"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Cartago?",
+    "opciones": ["Egipto", "Fenicia", "Cartaginense", "Grecia"],
+    "respuesta": "Cartaginense"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por sus manuscritos en los rollos del Mar Muerto?",
+    "opciones": ["Egipto", "Grecia", "Israel", "Mesopotamia"],
+    "respuesta": "Israel"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra la Gran Biblioteca de Alejandría?",
+    "opciones": ["Roma", "Egipto", "Grecia", "Mesopotamia"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción de las pirámides de Meroe?",
+    "opciones": ["Egipto", "Grecia", "Nubia", "Mesopotamia"],
+    "respuesta": "Nubia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por el templo de Borobudur?",
+    "opciones": ["Mesopotamia", "China", "India", "Indonesia"],
+    "respuesta": "Indonesia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción del Faro de Alejandría?",
+    "opciones": ["Egipto", "Grecia", "Roma", "Mesopotamia"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló la escritura jeroglífica?",
+    "opciones": ["Mesopotamia", "Grecia", "Egipto", "Roma"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción del Templo del Cielo?",
+    "opciones": ["India", "China", "Mesopotamia", "Egipto"],
+    "respuesta": "China"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Mohenjo-Daro?",
+    "opciones": ["Mesopotamia", "China", "Valle del Indo", "Grecia"],
+    "respuesta": "Valle del Indo"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por el Palacio de Darius en Persépolis?",
+    "opciones": ["Egipto", "Persia", "Mesopotamia", "Roma"],
+    "respuesta": "Persia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la Epopeya de Gilgamesh?",
+    "opciones": ["Egipto", "Mesopotamia", "Grecia", "Roma"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra el Templo de Hera?",
+    "opciones": ["Egipto", "Grecia", "Roma", "China"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Uruk?",
+    "opciones": ["Grecia", "Roma", "Mesopotamia", "Egipto"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por su calendario preciso de 365 días?",
+    "opciones": ["Azteca", "Inca", "Maya", "Olmeca"],
+    "respuesta": "Maya"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por su teatro en Epidauro?",
+    "opciones": ["Egipto", "Roma", "Grecia", "Mesopotamia"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se construyó el Acueducto de Segovia?",
+    "opciones": ["Grecia", "Egipto", "Roma", "Persia"],
+    "respuesta": "Roma"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción del Palacio de Assurbanipal?",
+    "opciones": ["Grecia", "Mesopotamia", "Egipto", "Roma"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por sus frescos en Cnosos?",
+    "opciones": ["Grecia", "Egipto", "Roma", "Minoica"],
+    "respuesta": "Minoica"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló la obra 'El Arte de la Guerra'?",
+    "opciones": ["Grecia", "China", "Roma", "Persia"],
+    "respuesta": "China"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción del Templo de Edfu?",
+    "opciones": ["Grecia", "Mesopotamia", "Roma", "Egipto"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Pataliputra?",
+    "opciones": ["Grecia", "Roma", "India", "China"],
+    "respuesta": "India"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por sus avanzados sistemas de riego en Marib?",
+    "opciones": ["Mesopotamia", "Grecia", "Egipto", "Saba"],
+    "respuesta": "Saba"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por sus templos en Luxor?",
+    "opciones": ["Roma", "Egipto", "Grecia", "Persia"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló la filosofía de Confucio?",
+    "opciones": ["India", "China", "Grecia", "Roma"],
+    "respuesta": "China"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la construcción del Templo de Hatshepsut?",
+    "opciones": ["Grecia", "Mesopotamia", "Egipto", "Roma"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra el Templo del Loto?",
+    "opciones": ["Grecia", "China", "India", "Mesopotamia"],
+    "respuesta": "India"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la Batalla de Kadesh?",
+    "opciones": ["Egipto", "Roma", "Grecia", "Mesopotamia"],
+    "respuesta": "Egipto"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por la creación del Estándar de Ur?",
+    "opciones": ["Egipto", "Grecia", "Mesopotamia", "Roma"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se desarrolló la filosofía estoica?",
+    "opciones": ["Roma", "Grecia", "Egipto", "Persia"],
+    "respuesta": "Grecia"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es famosa por la construcción de la Puerta de Ishtar?",
+    "opciones": ["Mesopotamia", "Egipto", "Roma", "Persia"],
+    "respuesta": "Mesopotamia"
+  },
+  {
+    "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Teotihuacán?",
+    "opciones": ["Inca", "Maya", "Azteca", "Olmeca"],
+    "respuesta": "Azteca"
+  },
+  {
+    "pregunta": "¿Qué civilización antigua es conocida por el Templo Mayor?",
+    "opciones": ["Inca", "Maya", "Azteca", "Olmeca"],
+    "respuesta": "Azteca"
+  }
+]
